@@ -20,7 +20,7 @@ Embedding the document
 
 Advanced retrievers in LangChain
 
-Module 3: Create a QA Bot to Read Your Document(qabot(1).py)
+Module 3: Create a QA Bot to Read Your Document(qabot.py)
 
 Description: Set up a Gradio interface for model interaction and construct a QA bot to answer questions based on loaded documents.
 
