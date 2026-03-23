@@ -83,8 +83,6 @@ def retriever(file):
     retriever = vectordb.as_retriever()
     return retriever
 
-from langchain.chains import RetrievalQA
-
 ## QA Chain
 def retriever_qa(file, query):
     llm = get_llm()
